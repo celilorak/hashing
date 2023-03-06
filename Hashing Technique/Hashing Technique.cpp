@@ -18,7 +18,7 @@ int main()
     for (i = 0; i < 10; i++)
         HT[i] = NULL;
     
-    /*
+    /* Chaning
     HashingFunctions::InsertChaning(HT, 12);
     HashingFunctions::InsertChaning(HT, 22);
     HashingFunctions::InsertChaning(HT, 42);
